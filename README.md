@@ -121,7 +121,7 @@ Base URL for API : http://localhost:5000
 
 ### Database
 
-![UML Diagram](readme_images/UML Diagram.png)
+![UML Diagram](./readme_images/UML%20Diagram.png)
 
 
 The database consists of 3 collections:
@@ -131,19 +131,19 @@ Information of user are stored in this collection.
 
 userDetail document contains the information for the user profile and matching (gender interest and hobbies)
 
-![User](readme_images/Collection user part 1.png)
+![User](./readme_images/Collection%20user%20part%201.png)
 
-![User](readme_images/Collection user part 2.png)
+![User](./readme_images/Collection%20user%20part%202.png)
 
 #### Conversation collection
 Information of matched users are stored in this collection
 
-![Conversation](readme_images/Collection conversation.png)
+![Conversation](./readme_images/Collection%20conversation.png)
 
 #### message collection
 Information of each member's chats in a conversation are stored in this collection
 
-![Message](readme_images/Collection message.png)
+![Message](./readme_images/Collection%20message.png)
 
 ## Gitlab CI/CD Pipeline
 We have integrated our websites with Gitlab CI/CD Pipelines, which are configured inside the .gitlab-ci.yml. 
